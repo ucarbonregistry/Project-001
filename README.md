@@ -47,63 +47,49 @@ Sources)
 13 Waste handling and disposal
 ___________
 
+QTY Issued MP-01: 59857 TONNES
+
 ISSUANCE DATE: 11/11/2021
+______________
+Serial Number 0001-000001-001861-UCR-CoU-IN-001-01012014-31122014
 
-QTY: xxxx CoUs
-_____________
-Serial Numbers: 0001-000001-001861-UCR-CoU-IN-001-01012014-31122014
+Vintage Year 2014
 
-Vintage: 2014
+CoU's Issued 1,861
+___________________
+Serial Number 0001-001862-005238-UCR-CoU-IN-001-01012015-31122015
 
-Issued: 1861
-____________________
+Vintage Year 2015
 
-Serial Numbers: 0001-001862-005238-UCR-CoU-IN-001-01012015-31122015
+CoU's: 3,377
+_____________________
+Serial Number 0001-005239-009876-UCR-CoU-IN-001-01012016-31122016
 
-Vintage: 2015
+Vintage Year 2016
 
-Issued: 3377
+CoU's: 4,638
+__________________
+Serial Number 0001-009877-016494-UCR-CoU-IN-001-01012017-31122017
+
+Vintage Year 2017
+
+CoU's: 6,618
 ________________
-Serial Numbers: 0001-005237-009876-UCR-CoU-IN-001-01012016-31122016
+Serial Number 0001-016495-027527-UCR-CoU-IN-001-01012018-31122018
 
-Vintage: 2016
+Vintage Year 2018
 
-Issued: 4638
-_________________
+CoU's:  11,033
+_____________
+Serial Number 0001-027528-042185-UCR-CoU-IN-001-01012019-31122019
 
-Serial Numbers: 0001-009877-016495-UCR-CoU-IN-001-01012017-31122017
+Vintage Year 2019
 
-Vintage: 2017
-
-Issued: 6619
+CoU's: 14,658
 __________________
-Serial Numbers: 0001-016496-027528-UCR-CoU-IN-001-01012018-31122018
+Serial Number 0001-042186-059857-UCR-CoU-IN-001-01012020-31122020
 
-Vintage: 2018
+Vintage Year 2020
 
-Issued: 11033
-__________________
-Serial Numbers: 0001-027529-042187-UCR-CoU-IN-001-01012019-31122019
-
-Vintage: 2019
-
-Issued: 14659
-____________________
-Serial Numbers: 0001-042188-001861-UCR-CoU-IN-001-01012020-31122020
-
-Vintage: 2020
-
-Issued: 17672
-__________________
-
-
-
-Vintage: ___2017_____________ Metric Tons CO2e: 6619
-Beginning (DD/MM/YY): 01/01/2017 End (DD/MM/YY): 31/12/2017 
-Vintage: __ 2018_____________ Metric Tons CO2e: 11033
-Beginning (DD/MM/YY): 01/01/2018 End (DD/MM/YY): 31/12/2018
-Vintage: __ 2019_____________ Metric Tons CO2e: 14659
-Beginning (DD/MM/YY): 01/01/2019 End (DD/MM/YY): 31/12/2019 
-Vintage: ___2020_____________ Metric Tons CO2e: 17672
-Beginning (DD/MM/YY): 01/01/2020 End (DD/MM/YY): 31/12/2020
-2993 CoU(0001-042186-045178-UCR-CoU-IN-001-01012020-31122020 ) f
+CoU's: 17672
+____________
